@@ -120,3 +120,5 @@ dist
 .pnp.*
 
 /test.wav
+
+.DS_Store
