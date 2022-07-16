@@ -1,0 +1,5 @@
+{
+  "my_yandex_folder_id": "YOUR YANDEX CLOUD FOLDER ID",
+  "my_yandex_service_account_api_key": "PATH TO YOUR SERVICE ACCOUNT PRIVATE API KEY",
+  "yandex_cloud_api_project_relative_path": "RELATIVE PATH TO YOUR COPY OF YANDEX CLOUD API FOLDER"
+}
